@@ -1,0 +1,45 @@
+_repo: Tom-Akerley-His-Adventures-in-the-Tall-Timber-and-at-Gaspard-s-Clearing-on-the-Indian-River_62652
+_version: 0.0.1
+alternative_title: "Tom Akerley\r\nHis Adventures in the Tall Timber and at Gaspard's\
+  \ Clearings on the Indian River"
+contributor:
+  illustrator:
+    agent_name: Fuhr, E. (Ernest)
+    alias: Fuhr, Ernest
+    birthdate: 1874
+    deathdate: 1933
+    gutenberg_agent_id: '31355'
+    url: http://www.gutenberg.org/2009/agents/31355
+creator:
+  author:
+    agent_name: Roberts, Theodore Goodridge
+    aliases:
+    - Roberts, George Edward Theodore
+    - Roberts, G. E. Theodore (George Edward Theodore)
+    - Goodridge Roberts, Theodore
+    - Roberts, T. G. (Theodore Goodridge)
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '7525'
+    url: http://www.gutenberg.org/2009/agents/7525
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Goodridge_Roberts
+description: ''
+gutenberg_issued: '2020-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62652'
+  lccn: '23009458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: 'Tom Akerley
+
+  His Adventures in the Tall Timber and at Gaspard''s Clearing on the Indian River'
+url: http://www.gutenberg.org/ebooks/62652
